@@ -1,0 +1,83 @@
+.li {
+  color: #8d81ff;
+}
+
+.html {
+  margin-top: 50px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.general {
+  display: inline-block;
+  margin-left: 150px;
+  font-size: 25px;
+  color: #4e6fae;
+}
+.news {
+  display: inline-block;
+  margin-left: 100px;
+  font-size: 25px;
+}
+.contact {
+  display: inline-block;
+  margin-left: 100px;
+  font-size: 25px;
+}
+.nav {
+  display: inline-block;
+  vertical-align: 15px;
+}
+.date {
+  width: 25px;
+  height: 15px;
+  background: #5012d5;
+  color: #84ff81;
+  padding: 20px 10px 20px 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+.month {
+  font-size: 25px;
+  color: #8d81ff;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.header {
+  font-size: 20px;
+  color: #4e6fae;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.pics {
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  display: inline;
+}
+.section-text {
+  width: 1200px;
+  display: inline-block;
+  vertical-align: 30px;
+  font-size: 19px;
+  margin-left: 70px;
+
+ 
+  color: #4e6fae;
+}
+.fb {
+  margin-left: 30px;
+}
+.footer {
+  margin-top: 100px;
+}
+.stick {
+  margin-left: 20px;
+  margin-right: 20px;
+  vertical-align: 3px;
+  width: 2px;
+  height: 40px;
+  background: gray;
+  display: inline-block;
+}

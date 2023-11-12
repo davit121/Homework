@@ -1,0 +1,74 @@
+.li {
+  color: #8d81ff;
+}
+
+.html {
+  margin-top: 50px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.general {
+  display: inline-block;
+  margin-left: 150px;
+  font-size: 25px;
+  color: #4e6fae;
+}
+.news {
+  display: inline-block;
+  margin-left: 100px;
+  font-size: 25px;
+}
+.contact {
+  display: inline-block;
+  margin-left: 100px;
+  font-size: 25px;
+}
+.nav {
+  display: inline-block;
+  vertical-align: 15px;
+}
+body{
+  background: #E7E7E7;
+}
+main{
+  width: 1450px;
+  height: 735px;
+  margin: 0 auto;
+}
+.contact-info{
+  width: 480px;
+  display: inline-block;
+vertical-align: middle;
+}
+.contact-info h1{
+  color:  #4e6fae;
+  font-size: 36px;
+
+}
+.contact-info p{
+  color: #7E8898;
+  font-size: 20px;
+}
+.contact-info p span{
+  color: #3f4145;
+  
+}
+.map{
+  display: inline-block;
+  vertical-align: middle;
+}
+.fb {
+  margin-left: 30px;
+}
+.footer {
+  margin-top: 100px;
+}
+.stick {
+  margin-left: 20px;
+  margin-right: 20px;
+  vertical-align: 3px;
+  width: 2px;
+  height: 40px;
+  background: gray;
+  display: inline-block;
+}
